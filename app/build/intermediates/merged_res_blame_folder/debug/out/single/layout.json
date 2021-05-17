@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed\\Downloads\\Compressed\\odml-pathways-main\\product-search\\codelab1\\android\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_object_detector.xml",
+        "source": "C:\\Users\\ahmed\\Downloads\\Compressed\\odml-pathways-main\\product-search\\codelab1\\android\\starter\\app\\src\\main\\res\\layout\\activity_object_detector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\Downloads\\Compressed\\odml-pathways-main\\product-search\\codelab1\\android\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_product.xml",
+        "source": "C:\\Users\\ahmed\\Downloads\\Compressed\\odml-pathways-main\\product-search\\codelab1\\android\\starter\\app\\src\\main\\res\\layout\\item_product.xml"
+    }
+]
